@@ -120,7 +120,8 @@ print('Mean Absolute Error:', mae)
 <img width="1020" height="614" alt="image" src="https://github.com/user-attachments/assets/5e5d2c1b-e27f-43fb-b19e-b2c1e1cf1998" />
 <img width="1002" height="322" alt="image" src="https://github.com/user-attachments/assets/31fe0d10-49a3-43ec-ae5e-73dba4d180a5" />
 <img width="1069" height="611" alt="image" src="https://github.com/user-attachments/assets/23c99675-c09d-4927-9d98-3a79097da7af" />
-![Uploading image.png…]()
+<img width="1071" height="778" alt="image" src="https://github.com/user-attachments/assets/83cb266a-9f70-4cde-8902-04f46167ae37" />
+
 
 ### RESULT:
 Thus the program run successfully based on the SARIMA model.
